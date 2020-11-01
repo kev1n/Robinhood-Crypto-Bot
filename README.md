@@ -6,3 +6,8 @@ This crypto bot uses binance data for pricing and supertrend calculations to mak
 Foward tested for two weeks, and produced results of -0.8%. The unprofitability was due to orders being routed to levels higher than retail traders, thus producing extremely bad fills and taking minutes to complete, even with market orders. If implemented with a better brokerage with ~0.2% fee, I have no doubt that it would have been profitable.
 
 Feel free to take my binance account, I only used it for its free api and I do not have any money in it.
+
+## Requirements:
+Credit given to https://github.com/wang-ye/robinhood-crypto for robinhood's crypto API, I couldn't install it so I had to copy and paste the code in.
+pip install python-binance
+pandas
