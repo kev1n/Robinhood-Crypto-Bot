@@ -9,5 +9,8 @@ Feel free to take my binance account, I only used it for its free api and I do n
 
 ## Requirements:
 Credit given to https://github.com/wang-ye/robinhood-crypto for robinhood's crypto API, I couldn't install it so I had to copy and paste the code in.
+
 pip install python-binance
+
 pandas
+
